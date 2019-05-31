@@ -1,4 +1,5 @@
 # triangulos
+//Este código verifica se os triangulo são Equilatero, isoceles ou escaleno de acordo com as medidade de cada lado, se as medidas não estiverem de acordo com um triangulo, aparece uma tela informando que não é um triangulo.
 package test;
 
 import java.util.Scanner;
